@@ -21,13 +21,13 @@
 
 
 **Pages:**
--Main,Register,Profile
+>Main,Register,Profile
 
--Coupon use, list of type(category)
+>Coupon use, list of type(category)
 
--list of what u can exchange, use points
+>list of what u can exchange, use points
 
--Generate coupon (Staff only), QR
+>Generate coupon (Staff only), QR
 
 
 
