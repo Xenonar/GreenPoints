@@ -1,4 +1,4 @@
-## ######### Welcome to GreenPoints##############################
+## ######### Welcome to GreenPoints############################ ##
 
 **Concept:**
 >Collect green points then exchange to discount code
@@ -22,11 +22,15 @@
 
 **Pages:**
 -Main,Register,Profile
+
 -Coupon use, list of type(category)
+
 -list of what u can exchange, use points
+
 -Generate coupon (Staff only), QR
 
 
-#######################################################
+
+## ####################################################### ##
 
 
