@@ -1,3 +1,4 @@
+ITS 485 GreenPoint - Do green, earn points, profit!
 ## ###### Welcome to GreenPoints############################## 
 
 **Concept:**
@@ -33,4 +34,3 @@
 
 #######################################################
 
-Commit test
