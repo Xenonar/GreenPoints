@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_1fe1b1d9352ed836aecf97f3d55f04db386ba185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c1c4b4513e1b00f7704e735390961818362cf4f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_9db3f1e4da1186ee4204e8154f16217d568f8ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-0.11.0_896f84ddafb695e833ddc7739ea899ebb3006584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_b78ea5714d0413760acc5012459e0b4d76feac23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.42.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.42.3_34e748ce3a1a4d5b649086f08984a16e97c87f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.11.0_a95843b8536955721530e39320be2f9e03102ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_22fe5a5debc62810fb21fa5cb45d505bb92bb75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_f7743ed965eae3ae91cc33d9ced79ac994aa914b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_1fd4be533366686f937e44e331e4039c7a9571b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_8ace88c03f5ecdf8e2974baab6cf011759917046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_67d34133208495a9e638147a1edbfbc3b07fc1fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.11.0_fbc32a798db360ed7691ee39db32640bcce78b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_e967602cedb3cdf27c5916205188b8064fdde338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_8b571364c1229a5ecc4fef863acb773b0c466b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.11.0_a4fdbdb102c8691eeb15d3fa4cbbf87cbb45acd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.11.0_d140601be16e258eb5941820af334b929bb3980e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.11.0_8b7f62c639dc60c32cef1695be70eaa588f91e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_e7d52a1fa3d62fd3795a5ceab5dee21cce7ba14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.42.3\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_996d85740e34f3566f6cf46dccabc7881003bc7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_3a3ed28e08e17cfd74280d4f4729ed886de33500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b6cc00cfc63efed1b27e2cd7771c635d571c4ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_87ec70002713aedce86d9826b500923c9d9dddcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\User\Desktop\react_native_2017\GreenPoints\version1\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_c381e096a4a3279073b5cf49014e9da1dd1163f3.jar" />
+    </item>
+
+</items>
