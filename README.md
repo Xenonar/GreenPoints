@@ -1,4 +1,4 @@
-## ######### Welcome to GreenPoints########################## ##
+## # Welcome to GreenPoints################### ##
 
 **Concept:**
 >Collect green points then exchange to discount code
