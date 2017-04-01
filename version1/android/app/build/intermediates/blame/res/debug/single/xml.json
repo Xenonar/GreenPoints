@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\react2017\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\17097352eb5f001d5d26a16799e36351039c3caa\\output\\res\\xml\\preferences.xml"
+    },
+    {
         "merged": "C:\\Users\\User\\Desktop\\react_native_2017\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\User\\Desktop\\react_native_2017\\GreenPoints\\version1\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.42.3\\res\\xml\\preferences.xml"
     }
