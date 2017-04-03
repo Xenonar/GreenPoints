@@ -1,66 +1,50 @@
 [
     {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\22e352e708159549bc1ee06734cd0ed20e9e22cd\\output\\res\\anim\\fade_out.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\22e352e708159549bc1ee06734cd0ed20e9e22cd\\output\\res\\anim\\fade_in.xml"
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c236551601a993819e401292ea0ab481b9ff4955\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\c236551601a993819e401292ea0ab481b9ff4955\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\ITS485\\Project\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\User\\.android\\build-cache\\fbe37baecf15d2f4ead20a8717ac60a517bfa819\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\22e352e708159549bc1ee06734cd0ed20e9e22cd\\output\\res\\anim\\slide_down.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\22e352e708159549bc1ee06734cd0ed20e9e22cd\\output\\res\\anim\\slide_up.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\22e352e708159549bc1ee06734cd0ed20e9e22cd\\output\\res\\anim\\catalyst_push_up_out.xml"
-    },
-    {
-        "merged": "F:\\ITS485\\Project\\GreenPoints\\version1\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
-        "source": "C:\\Users\\User\\.android\\build-cache\\22e352e708159549bc1ee06734cd0ed20e9e22cd\\output\\res\\anim\\catalyst_push_up_in.xml"
     }
 ]
